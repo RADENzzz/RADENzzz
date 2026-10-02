@@ -13,15 +13,15 @@
 
 <br>
 
-### 💻 About Me
-- 🌱 I’m currently diving deeper into systems programming, web architecture, and game dev.
-- ⚡ Fun fact: I build across a wide stack—from low-level **Rust/Go/C++** to high-level **TypeScript/Next.js**.
-- 🎯 Goal for this year: Contribute more to open source and build cooler embedded/hardware projects!
+### About Me
+- I’m currently diving deeper into systems programming, web architecture, and game dev.
+- Fun fact: I build across a wide stack—from low-level **Rust/Go/C++** to high-level **TypeScript/Next.js**.
+- Goal for this year: Contribute more to open source and build cooler embedded/hardware projects!
 
 <br>
 
 <div data-importer="techs" align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
+  <h3>Tech Stack & Tools</h3>
   <br>
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
