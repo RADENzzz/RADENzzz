@@ -23,16 +23,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 2. Generate the snake SVG files
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      # 2. Generate the snake SVG files using v3.5.0
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v3.5.0
+        id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Automatically push files to the 'output' branch
+      # 3. Automatically push the generated files to your 'output' branch
       - name: Push to output branch
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
