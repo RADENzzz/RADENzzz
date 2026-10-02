@@ -1,24 +1,28 @@
-<h1 data-importer="text" align="center">Hey! Broskie</h1>
+<h1 data-importer="text" align="center">Hey! Broskie ⚡</h1>
 
-###
+<p data-importer="text" align="center">
+  <b>Name is Alrhaden Javier</b><br>
+  You can call me <b>Raden</b> | Full-Stack & Systems Developer 🚀
+</p>
 
-<p data-importer="text" align="center">Name is Alrhaden Javier<br>you can call me Raden</p>
-
-###
+---
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
 
-###
+<br>
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=RadenZ.RadenZ&" />
-</div>
+### 💻 About Me
+- 🌱 I’m currently diving deeper into systems programming, web architecture, and game dev.
+- ⚡ Fun fact: I build across a wide stack—from low-level **Rust/Go/C++** to high-level **TypeScript/Next.js**.
+- 🎯 Goal for this year: Contribute more to open source and build cooler embedded/hardware projects!
 
-###
+<br>
 
 <div data-importer="techs" align="center">
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <br>
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
@@ -57,17 +61,35 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="60" alt="opengl logo" />
+  <img src="https://https://www.vectorlogo.zone/logos/opengl/opengl-icon.svg" height="60" alt="opengl logo" />
 </div>
 
-###
+<br>
 
-<!-- AUTOMATED LANGUAGE STATS CARD -->
+### 📊 GitHub Stats & Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenZ&layout=compact&theme=radical&hide=html,css" alt="Most Used Languages" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=RadenZ&show_icons=true&theme=radical&hide_border=true" alt="RadenZ's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenZ&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Most Used Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadenZ&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </p>
 </div>
 
-###
+<br>
+
+<!-- Snake animation eating contributions (Requires a Github Action set up in your repo, but displays cleanly once active) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RadenZ/RadenZ/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
+
+<br>
+
+### 🌐 Connect With Me
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/alrhaden-javier-86b89428b/?isSelfProfile=true" target="_blank">
@@ -81,10 +103,14 @@
   </a>
 </div>
 
-###
+<br>
+
+<div data-importer="profile-views" align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RadenZ.RadenZ&" alt="Profile Views" />
+</div>
 
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
