@@ -2,7 +2,7 @@
 
 <p data-importer="text" align="center">
   <b>Name is Alrhaden Javier</b><br>
-  You can call me <b>Raden</b> | Full-Stack & Systems Developer 🚀
+  You can call me <b>Raden</b> | Full-Stack & Systems Developer 
 </p>
 
 ---
