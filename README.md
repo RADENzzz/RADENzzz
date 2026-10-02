@@ -6,6 +6,9 @@
 </p>
 
 ---
+<div data-importer="profile-views" align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RadenZ.RadenZ&" alt="Profile Views" />
+</div>
 
 <div data-importer="techs" align="center">
   <h3>Tech Stack & Tools</h3>
@@ -107,9 +110,7 @@
 
 <br>
 
-<div data-importer="profile-views" align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RadenZ.RadenZ&" alt="Profile Views" />
-</div>
+
 
 <br clear="both">
 
