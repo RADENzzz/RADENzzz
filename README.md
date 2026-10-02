@@ -65,6 +65,20 @@
 - I’m currently diving deeper into systems programming, web architecture, and game dev.
 - Goal for this year: Is to finish my major game project name CAPSLOCK
 
+### 🌐 Connect With Me
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/alrhaden-javier-86b89428b/?isSelfProfile=true" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/Alrhaden.Javier" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="facebook logo" />
+  </a>
+  <a href="https://www.youtube.com/@AlrhadenJavier" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="youtube logo" />
+  </a>
+</div>
+
 <br>
 
 ### 📊 GitHub Stats & Metrics
@@ -94,19 +108,7 @@
 
 <br>
 
-### 🌐 Connect With Me
 
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/alrhaden-javier-86b89428b/?isSelfProfile=true" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" />
-  </a>
-  <a href="https://www.facebook.com/Alrhaden.Javier" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="facebook logo" />
-  </a>
-  <a href="https://www.youtube.com/@AlrhadenJavier" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="youtube logo" />
-  </a>
-</div>
 
 <br>
 
