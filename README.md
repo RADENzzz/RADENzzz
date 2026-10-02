@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/5586A4" height="60" alt="opengl logo" />
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="60" alt="opengl logo" />
 </div>
 
 ###
