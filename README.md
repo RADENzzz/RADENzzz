@@ -83,13 +83,13 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=RadenZ&show_icons=true&theme=radical&hide_border=true" alt="RadenZ's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RADENzzz&show_icons=true&theme=radical&hide_border=true" alt="RadenZ's GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenZ&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADENzzz&layout=compact&theme=radical&hide_border=true&hide=html,css" alt="Most Used Languages" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadenZ&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RADENzzz&theme=radical&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
 
