@@ -126,8 +126,7 @@
   </rect>
 
   <!-- terminal line -->
-  <text class="term" x="66" y="296" fill="#00D2FF">raden@wmsu:~$</text>
-  <text class="term" x="196" y="296" fill="#9AA8BD">building systems that hold up under load</text>
+  <text class="term" x="66" y="296" fill="#00D2FF">Hi there...</text>
   <rect x="583" y="281" width="9" height="17" fill="#6C63FF">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.1s" repeatCount="indefinite" calcMode="discrete" />
   </rect>
