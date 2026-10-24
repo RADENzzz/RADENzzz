@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D2FF&height=210&section=header&text=Alrhaden%20Javier&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Raden%20%C2%B7%20Full-Stack%20%26%20Systems%20Developer&descAlignY=58&descSize=19" width="100%" alt="Alrhaden Javier — Full-Stack & Systems Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D2FF&height=210&section=header&text=Alrhaden%20Javier&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Raden%20%C2%B7%20Full-Stack%20%26amp%3B%20Systems%20Developer&descAlignY=58&descSize=19" width="100%" alt="Alrhaden Javier — Full-Stack & Systems Developer" />
 
 <a href="https://github.com/RADENzzz">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=6C63FF&center=true&vCenter=true&width=620&lines=Building+systems+that+hold+up+under+load;From+database+schemas+to+the+last+pixel;Currently+shipping+CoE-NNECT+%26+CAPSLOCK" alt="Typing SVG" />
