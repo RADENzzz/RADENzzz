@@ -22,7 +22,7 @@ I care about software that is *correct* before it is clever, well-tested, docume
 
 - **Building:** [**CoE-NNECT**](https://github.com/RADENzzz/coe-nnect), a scheduling platform for the College of Engineering at WMSU.
 - **Exploring:** systems programming, distributed web architecture, and game development.
-- **2026 goal:** ship **CAPSLOCK**, my biggest game project yet.
+- **2027 goal:** ship **CAPSLOCK**, my biggest game project yet.
 - **Outside the terminal:** game engines, 3D art, and hardware tinkering on Raspberry Pi and Arduino.
 
 <br />
