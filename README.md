@@ -108,7 +108,7 @@ React + Vite  ──►  NestJS API  ──►  Supabase (PostgreSQL + Auth)
   <tr>
     <td align="right"><b>Systems &amp; Creative</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=opengl,godot,blender,raspberrypi,arduino" height="40" alt="OpenGL, Godot, Blender, Raspberry Pi, Arduino" />
+      <img src="https://skillicons.dev/icons?i=godot,blender,raspberrypi,arduino" height="40" alt="Godot, Blender, Raspberry Pi, Arduino" />
     </td>
   </tr>
   <tr>
