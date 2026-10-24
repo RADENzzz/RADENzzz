@@ -22,7 +22,7 @@
 
 ## About Me
 
-Hey — I'm **Raden**, a full-stack and systems developer. I like the whole stack: designing the schema, wiring the API, and then making the interface feel effortless.
+Hey... I'm **Raden**, a full-stack and systems developer. I like the whole stack: designing the schema, wiring the API, and then making the interface feel effortless.
 
 I care about software that is *correct* before it is clever — well-tested, documented, and genuinely usable by the people who run it every day.
 
