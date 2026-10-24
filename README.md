@@ -5,8 +5,6 @@
 <img src="assets/hero.svg" width="100%" alt="Alrhaden Javier — Full-Stack & Systems Developer" />
 
 <br />
-
-<img src="https://komarev.com/ghpvc/?username=RADENzzz&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/RADENzzz?label=Followers&color=6C63FF&style=flat-square" alt="Followers" />
 <a href="https://www.linkedin.com/in/alrhaden-javier-86b89428b/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
