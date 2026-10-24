@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Alrhaden Javier — Full-Stack & Systems Developer" />
+<img src="assets/hero.svg" width="100%" alt="Alrhaden Javier | Full-Stack & Systems Developer" />
 
 <br />
 <img src="https://img.shields.io/github/followers/RADENzzz?label=Followers&color=6C63FF&style=flat-square" alt="Followers" />
@@ -16,9 +16,9 @@
 
 ## About Me
 
-Hey — I'm **Raden**, a full-stack and systems developer. I like the whole stack: designing the schema, wiring the API, and then making the interface feel effortless.
+Hey, I'm **Raden**, a full-stack and systems developer. I like the whole stack: designing the schema, wiring the API, and then making the interface feel effortless.
 
-I care about software that is *correct* before it is clever — well-tested, documented, and genuinely usable by the people who run it every day.
+I care about software that is *correct* before it is clever, well-tested, documented, and genuinely usable by the people who run it every day.
 
 - **Building:** [**CoE-NNECT**](https://github.com/RADENzzz/coe-nnect), a scheduling platform for the College of Engineering at WMSU.
 - **Exploring:** systems programming, distributed web architecture, and game development.
@@ -40,7 +40,7 @@ I care about software that is *correct* before it is clever — well-tested, doc
 
 </div>
 
-Most universities still build faculty timetables by hand — moving blocks around a spreadsheet until nothing overlaps. **CoE-NNECT** replaces that with a real system: a monorepo web platform that validates schedules against **27 scheduling rules**, runs role-based review and approval workflows, and generates conflict-free timetables with a **constraint-programming solver**.
+Most universities still build faculty timetables by hand, moving blocks around a spreadsheet until nothing overlaps. **CoE-NNECT** replaces that with a real system: a monorepo web platform that validates schedules against **27 scheduling rules**, runs role-based review and approval workflows, and generates conflict-free timetables with a **constraint-programming solver**.
 
 **What it does**
 
@@ -167,7 +167,7 @@ React + Vite  ──►  NestJS API  ──►  Supabase (PostgreSQL + Auth)
 
 <br /><br />
 
-<i>Always up for a good build — let's make something worth shipping.</i>
+<i>Always up for a good build | let's make something worth shipping.</i>
 
 </div>
 
