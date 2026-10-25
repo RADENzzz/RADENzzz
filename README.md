@@ -93,7 +93,7 @@ React + Vite  ──►  NestJS API  ──►  Supabase (PostgreSQL + Auth)
   <tr>
     <td align="right"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=ts,py,go,rust,cpp,swift" height="40" alt="TypeScript, Python, Go, Rust, C++, C#, Swift" />
+      <img src="https://skillicons.dev/icons?i=ts,py,go,rust,cpp,swift" height="40" alt="TypeScript, Python, Go, Rust, C++, cs, Swift" />
     </td>
   </tr>
   <tr>
