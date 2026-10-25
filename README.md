@@ -22,7 +22,7 @@ I care about software that is *correct* before it is clever, well-tested, docume
 
 - **Building:**
   - [**CoE-NNECT**](https://github.com/RADENzzz/coe-nnect), a scheduling platform for the College of Engineering at WMSU.
-  - [**End of The DayZ**](https://github.com/RADENzzz/End-of-the-Day), a 2D platform game, made with MONOGAME
+  - [**End of The DayZ**](https://github.com/RADENzzz/End-of-the-Day), a 2D platform game, made with Microsoft XNA
   - [**CAPSLOCK**](https://github.com/RADENzzz/Capslock) A 3D Mini-Open world story ISEKAI game, made with GODOT 
 - **Exploring:** systems programming, distributed web architecture, and game development.
 - **2027 goal:** ship **CAPSLOCK**, my biggest game project yet.
