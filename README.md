@@ -1,7 +1,5 @@
 <img src="assets/hero.svg" width="100%" alt="Alrhaden Javier | Full-Stack & Systems Developer" />
 
-# Alrhaden Javier
-
 Full-stack and systems developer. I work across the stack: schema design, API implementation, and the interface that ties it together.
 
 I prioritize software that is correct before it is clever, well tested, documented, and usable by the people who operate it daily.
