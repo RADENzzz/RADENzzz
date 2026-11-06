@@ -127,11 +127,6 @@ React + Vite  ──►  NestJS API  ──►  Supabase (PostgreSQL + Auth)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RADENzzz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D2FF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADENzzz&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top languages" />
-
-<br />
-
 <img width="70%" src="https://streak-stats.demolab.com?user=RADENzzz&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=00D2FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
 </div>
