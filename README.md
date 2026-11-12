@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Alrhaden Javier | Full-Stack & Systems Developer" />
+<img src="assets/hero.sv" width="100%" alt="Alrhaden Javier | Full-Stack & Systems Developer" />
 
 <br />
 <a href="https://www.linkedin.com/in/alrhaden-javier-86b89428b/">
